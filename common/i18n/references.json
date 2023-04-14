@@ -1,0 +1,361 @@
+{
+    "eng": {
+        "ref1": {
+            "name": "TECFIDERA. Summary of Product Characteristics."
+        },
+        "ref2": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Efficacy and Safety of Delayed-Release Dimethyl Fumarate in Patients Newly Diagnosed with Relapsing-Remitting Multiple Sclerosis (RRMS). Mult Scler. 2015 Jan;21(1):57-66."
+        },
+        "ref3": {
+            "name": "Gold R, Arnold DL, Bar-Or A <i>et al.</i> Safety and efficacy of delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: 9 years' follow-up of DEFINE, CONFIRM, and ENDORSE. Ther Adv Neurol Disord. 2020;13:1-17."
+        },
+        "ref4": {
+            "name": "Gold R, <i>et al.</i> Sustained effect of delayed-release dimethyl fumarate in newly diagnosed patients with relapsing-remitting multiple sclerosis: 6-year interim results from an extension of the DEFINE and CONFIRM studies. Neurol Ther. 2016;5:45-57."
+        },
+        "ref5": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Delayed-release dimethyl fumarate demonstrates sustained efficacy over nine years in newly diagnosed patients with relapsing-remitting multiple sclerosis. Poster presented at ECTRIMS 2018; Berlin, Germany. P920."
+        },
+        "ref6": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Efficacy and Safety of Delayed-Release Dimethyl Fumarate in Patients Newly Diagnosed With Relapsing-Remitting Multiple Sclerosis (RRMS). Mult Scler. 2015 Jan;21(1):57-66."
+        },
+        "ref7": {
+            "name": "Gold R, Arnold DL, Bar-Or A <i>et al.</i> Safety and efficacy of delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: 9 years’ follow-up of DEFINE, CONFIRM, and ENDORSE. Ther Adv Neurol Disord. 2020;13:1–17."
+        },
+        "ref8": {
+            "name": "Kresa-Reahl K, Repovic P, Robertson D, <i>et al.</i> Effectiveness of delayed-release dimethyl fumarate on clinical and patient-reported outcomes in patients with relapsing multiple sclerosis switching from glatiramer acetate: RESPOND, a prospective observational study. Clin Ther. 2018;40(12):2077-2087."
+        },
+        "ref9": {
+            "name": "Viglietta V, Miller D, Bar-Or A <i>et al.</i> Efficacy of Delayed-Release Dimethyl Fumarate in Relapsing-Remitting Multiple Sclerosis: Integrated Analysis of the Phase 3 Trials. Ann Clin Transl Neurol. 2015;2(2):103-118."
+        },
+        "ref10": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Overall safety and efficacy through 10 years of treatment with delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis. Poster presented at ECTRIMS 2019; Stockholm, Sweden. P1397."
+        },
+        "ref11": {
+            "name": "Braune S, Grimm S, van Hovel P, <i>et al.</i> Comparative effectiveness of delayed-release dimethyl fumarate versus interferon, glatiramer acetate, teriflunomide, or fingolimod: results from the German NeuroTransData registry. J Neurol. 2018; 265(12): 2980–2992."
+        },
+        "ref12": {
+            "name": "Kresa-Reahl K, Repovic P, Robertson D, <i>et al.</i> Effectiveness of delayed-release Dimethyl Fumarate on Clinical and Patient-Reported Outcomes in Patients With Relapsing Multiple Sclerosis Switching from Glatiramer Acetate: RESPOND, a Prospective Observational Study. Clin Therap vol 40, number 12, 2018."
+        },
+        "ref13": {
+            "name": "Berger T, Brochet B, Brambilla L <i>et al.</i> Effectiveness of Delayed-Release Dimethyl Fumarate on patient-reported outcomes and Clinical Measures in Patients with RRMS in a Real-World Clinical Setting: PROTEC. Mult Scler J Exp Transl Clin. 2019 Oct-Dec; 5(4): 2055217319887191."
+        },
+        "ref14": {
+            "name": "Fox RJ, Chan A, Gold R <i>et al.</i> Characterizing absolute lymphocyte count profiles in dimethyl fumarate–treated patients with MS – Patient management considerations. Neurol Clin Pract. 2016 Jun; 6(3): 220–229."
+        },
+        "ref15": {
+            "name": "Mehta D, Miller C, Arnold DL, <i>et al.</i> Effect of dimethyl fumarate on lymphocytes in RRMS - Implications for clinical practice. Neurology. 2019;92(15):e1724-e1738."
+        },
+        "ref16": {
+            "name": "Gold R, Kappos L, Arnold DL <i>et al.</i> Placebo-Controlled Phase 3 Study of Oral BG-12 for Relapsing Multiple Sclerosis. N Engl J Med. 2012;367(12):1098-1107."
+        },
+        "ref17": {
+            "name": "Fox RJ, Miller DH, Phillips JT <i>et al.</i> Placebo-controlled Phase 3 Study of Oral BG-12 or Glatiramer in Multiple Sclerosis. N Engl J Med. 2012;367(12):1087-1097."
+        },
+        "ref18": {
+            "name": "Min J, Cohan S, Alvarez E <i>et al.</i> Real-World Characterization of Dimethyl Fumarate-Related Gastrointestinal Events in Multiple Sclerosis: Management Strategies to Improve Persistence on Treatment and Patient Outcomes. Neurol Ther. 2019;8(1):109-119."
+        },
+        "ref19": {
+            "name": "Begus-Nahrmann Y, Niemczyk G, Schmid B <i>et al.</i> The potential of individualized patient coaching to optimize treatment with delayed-release dimethyl fumarate: A retrospective analysis of patients with multiple sclerosis treated in a real-world setting. Poster P1214. Presented at: ECTRIMS, 14–17 September, 2016, London, UK."
+        },
+        "ref20": {
+            "name": "Tecfidera Exposure Data 19 May 2020. Biogen Data on File."
+        },
+        "ref21": {
+            "name": "Biogen press release. New data at AAN showcase Biogen’s commitment to advancing innovationin MS. Available at: https://investors.biogen.com/news-releases/news-release-details/new-data-aan-showcase-biogens-commitment-advancing-innovation-ms. Last accessed July 2020."
+        },
+        "ref22": {
+            "name": "Giovannoni G, Butzkueven H, Dhib-Jalbut S <i>et al.</i> Brain Health: Time Matters in Multiple Sclerosis. Mult Scler Relat Disord. 2016;9 Suppl 1:S5–S48."
+        },
+        "ref23": {
+            "name": "Ziemssen T, Derfuss T, de Stefano N <i>et al.</i> Optimizing treatment success in multiple sclerosis. J Neurol. 2016 Jun;263(6):1053-65."
+        },
+        "ref24": {
+            "name": "Ziemssen T, De Stefano N, Sormani MP <i>et al.</i> Optimizing therapy early in multiple sclerosis: An evidence-based view. Mult Scler Relat Disord. 2015 Sep;4(5):460-469."
+        },
+        "ref25": {
+            "name": "Kresa-Reahl K, Repovic P, Robertson D <i>et al.</i> Effectiveness of delayed-release dimethyl fumarate on clinical and patient-reported outcomes in patients with relapsing multiple sclerosis switching from glatiramer acetate: RESPOND, a prospective observational study. Mult Scler Relat Disord. 2018;27:101–111."
+        },
+        "ref26": {
+            "name": "Hutchinson M, Fox RJ, Havrdova E <i>et al.</i> Efficacy and safety of BG-12 (dimethyl fumarate) and other disease modifying therapies for the treatment of relapsing–remitting multiple sclerosis: a systematic review and mixed treatment comparison. Curr Med Res Opin. 2014;30:613–627."
+        },
+        "ref27": {
+            "name": "Chan A, Cutter G, Fox RJ <i>et al.</i> Comparative effectiveness of delayed-release dimethyl fumarate versus glatiramer acetate in multiple sclerosis patients: results of a matchingadjusted indirect comparison. J Comp Eff Res. 2017;6:313–323."
+        },
+        "ref28": {
+            "name": "Fox RJ <i>et al.</i> Comparative effectiveness using a matching-adjusted indirect comparison between delayed-release dimethyl fumarate and fingolimod for the treatment of multiple sclerosis.Curr Med Res Opin. 2017;33:175-183."
+        },
+        "ref29": {
+            "name": "Spelman T, Kalincik T, Trojano M <i>et al.</i> Comparative Analysis of Multiple Sclerosis Outcomes in Dimethyl Fumarate–Treated Patients Relative to Propensity-Matched Fingolimod, Teriflunomide, Interferons, or Glatiramer Acetate. Presented at AAN; April 22-28, 2017, Boston, MA, USA. P6.372."
+        },
+        "ref30": {
+            "name": "Kalincik T, Spelman T, Jokubaitis <i>et al.</i> Effectiveness of fingolimod, dimethyl fumarate and teriflunomide in relapsing-remitting multiple sclerosis: a comparative longitudinal study. Mult Scler. 2017 Oct;23(3_suppl):85-426. Presented at ECTRIMS; Oct 25–28, 2017; Paris, France."
+        },
+        "ref31": {
+            "name": "Braune S, Grimm S, van Hovel P, <i>et al.</i> Comparative effectiveness of delayed-release dimethyl fumarate versus interferon, glatiramer acetate, teriflunomide, or fingolimod: results from the German NeuroTransData registry. J Neurol. 2018; 265(12): 2980–2992."
+        },
+        "ref32": {
+            "name": "Chan A, Cohan S, Stark J <i>et al.</i> Treatment With Delayed-release Dimethyl Fumarate Is Associated With Fewer Relapses Versus Glatiramer Acetate in Patients With Relapsing- Remitting Multiple Sclerosis: Real-world Comparative Effectiveness Analyses From the EFFECT Study. Poster presented at ECTRIMS–ACTRIMS; 25–28 October, 2017; Paris, France. P1160."
+        },
+        "ref33": {
+            "name": "Hersh CM, Love TE, Bandyopadhyay A <i>et al.</i> Comparative efficacy and discontinuation of dimethyl fumarate and fingolimod in clinical practice at 24-month follow-up. Mult Scler J Exp Transl Clin. 2017;3(3):1–14."
+        },
+        "ref34": {
+            "name": "Ontaneda D, Nicholas J, Carraro M, <i>et al.</i> Comparative effectiveness of dimethyl fumarate versus fingolimod and teriflunomide among MS patients switching from first-generation platform therapies in the US. Mult Scler Relat Disord. 2018;27:101-111."
+        },
+        "ref35": {
+            "name": "Buron MD, Chalmer TA, Selleberg F <i>et al.</i> Comparative Effectiveness of Teriflunomide and Dimethyl Fumarate. A Nationwide Cohort Study. Neurology. 2019;92(16):e1811-e1820."
+        },
+        "ref36": {
+            "name": "Hughes SE, Spelman T, Gray OM, <i>et al.</i> Predictors and dynamics of postpartum relapses in women with multiple sclerosis. Mult Scler. 2014;20(6):739-746."
+        },
+        "ref37": {
+            "name": "Fragoso YD, Adoni T, Brooks JBB, <i>et al.</i> Practical evidence-based recommendations for patients with multiple sclerosis who want to have children. Neurol Ther. 2018;7(2):207-232."
+        },
+        "ref38": {
+            "name": "Gold R, <i>et al.</i> Efficacy and safety of delayed-release dimethyl fumarate in patients newly diagnosed with relapsing-remitting multiple sclerosis (RRMS). Mult Scler. 2015;21(1):57-66."
+        },
+        "ref39": {
+            "name": "Ford CC, Morrow SA. CMSC Practical guidelines for the selection of disease-modifying therapies in multiple sclerosis. The Consortium of Multiple Sclerosis Centers. 2019."
+        },
+        "ref40": {
+            "name": "Everage NJ, Liu S, Yun J <i>et al.</i> Pregnancy outcomes with delayed-release dimethyl fumarate: interim results from an international registry Journal of Neurology, Neurosurgery & Psychiatry 2018;89:A22."
+        },
+        "ref41": {
+            "name": "Gold RJ, Phillips T, Havrdova E <i>et al.</i> Delayed-Release Dimethyl Fumarate and Pregnancy: Preclinical Studies and Pregnancy Outcomes from Clinical Trials and Postmarketing Experience. Neurol Ther. 2015 Dec; 4(2): 93–104."
+        },
+        "ref42": {
+            "name": "Coyle. Management of women with multiple sclerosis through pregnancy and after childbirth. Ther Adv Neurol Disord. 2016 May; 9(3):198–210."
+        },
+        "ref43": {
+            "name": "Biogen. Periodic safety update report. 2017."
+        },
+        "ref44": {
+            "name": "Hellwig K, Rog D, McGuigan C  <i>et al.</i> An International Registry Tracking Pregnancy Outcomes in Women Treated With Dimethyl Fumarate. Poster presented at AAN, 25 April–1 May 2020, Toronto, Canada. P11.1-014."
+        },
+        "ref45": {
+            "name": "GILENYA Summary of Product Characteristics. Novartis Europharm Limited; December 2019."
+        },
+        "ref46": {
+            "name": "AUBAGIO Summary of Product Characteristics. Sanofi-Aventis Groupe; February 2020."
+        },
+        "ref47": {
+            "name": "MAVENCLAD Summary of Product Characteristics. Merck Europe B.V.; March 2020."
+        },
+        "ref48": {
+            "name": "Von Hehn C, Howard J, Liu S <i>et al.</i> Immune Response to Vaccines Is Maintained in Patients Treated With Dimethyl Fumarate. Neurol Neuroimmunol Neuroinflamm. 2018 Jan; 5(1): e409."
+        },
+        "ref49": {
+            "name": "Bar-Or A, Giuliani F, Mao-Draayer Y <i>et al.</i> Dimethyl Fumarate Exerts Selective Effects on Key B Cell Subsets and IgG Levels Which May Contribute to Its Therapeutic Benefit in MS While Maintaining Protective Humoral Immunity. Poster presented at AAN, 4–10 May, 2019, Philadelphia, PA, USA. P2.2-069."
+        },
+        "ref50": {
+            "name": "Longbrake E, Matthews PM, Mao-Draayer Y <i>et al.</i> Change in Absolute Lymphocyte Count Is Not a Biomarker of Clinical Response and Is Not Associated With Change in Serum Neurofilament Light for Patients Treated With Delayed-release Dimethyl Fumarate. Poster presented at ECTRIMS, 11–13 September 2019, Stockholm, Sweden. P1037."
+        },
+        "ref51": {
+            "name": "Robertson D, Zielinski T, Cascione M <i>et al.</i> Delayed-release Dimethyl Fumarate Treatment Shifts the Immune Repertoire in Patients With Relapsing-Remitting Multiple Sclerosis: Results of PROCLAIM, an Open-label Phase 3 Study. Poster presented at AAN, 4–10 May, 2019, Philadelphia, PA, USA. P4.2-053."
+        },
+        "ref52": {
+            "name": "Campbell TL, Lefaux BJ, Mayer LL <i>et al.</i> Nursing Management of Gastrointestinal Adverse Events Associated With Delayed-Release Dimethyl Fumarate: A Global Delphi Approach. J Neurosci Nurs. 2020;52(2):72-77."
+        },
+        "ref53": {
+            "name": "Gold R, Arnold DL, Bar-Or A, Fox RJ, Kappos L, Chen C, <i>et al.</i> Safety and efficacy of delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: 9 years’ follow-up of DEFINE, CONFIRM, and ENDORSE. Ther Adv Neurol Disord 2020, Vol. 13: 1–17."
+        },
+        "ref54": {
+            "name": "Mehta D, Miller C, Arnold DL <i>et al.</i> Effect of dimethyl fumarate on lymphocytes in RRMS Neurology 2019;92:e1724-e1738."
+        },
+        "ref55": {
+            "name": "Kresa-Reahl K, Repovic P, Robertson D, <i>et al.</i> Effectiveness of delayed-release dimethyl fumarate on clinical and patient-reported outcomes in patients with relapsing multiple sclerosis switching from glatiramer acetate: RESPOND, a prospective observational study. Mult Scler Relat Disord. 2018;27:101–111."
+        },
+        "ref56": {
+            "name": "Pandey K, Giles K, Balashov K, <i>et al.</i> Safety and Effectiveness of Dimethyl Fumarate Maintained Over 5 Years in Multiple Sclerosis Patients Treated in Routine Medical Practice. Poster PO386 presented at 8th Joint ACTRIMS/ECTRIMS 2020 Washington DC, USA."
+        },
+        "ref57": {
+            "name": "Derfuss T, Mehling M, Papadopoulou A, Bar-Or A, Cohen JA, Kappos L.  Advances in oral immunomodulating therapies in relapsing multiple sclerosis. Lancet Neurology Published online February 11, 2020  https://doi.org/10.1016/S1474-4422(19)303091-6."
+        },
+        "ref58": {
+            "name": "Berger T, Brochet B, Brambilla L <i>et al.</i> Effectiveness of Delayed-Release Dimethyl Fumarate on PROs and Clinical Measures in Patients with RRMS in a Real-World Clinical Setting: PROTEC. Mult Scler J Exp Transl Clin. 2019 Oct-Dec; 5(4): 2055217319887191."
+        },
+        "ref59": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Safety and Efficacy in Patients Treated With Dimethyl Fumarate and Followed For 13 Years: Final Results of ENDORSE. Poster presented at ACTRIMS–ECTRIMS (MSVirtual), 11–13 September 2020. Poster FC02.05."
+        },
+        "ref60": {
+            "name": "Nakamura K, Mokliatchouk O, Arnold DL <i>et al.</i> Effects of Dimethyl Fumarate on Brain Volume Change in Relapsing-Remitting Multiple Sclerosis: A Pooled Analysis of the Phase 3 DEFINE and CONFIRM Studies. Poster presented at AAN, 4–10 May 2019, Philadelphia PA, USA. P3.2-064."
+        },
+        "ref61": {
+            "name": "Lorscheider J, Benkert P, Lienert C <i>et al.</i> Comparative analysis of dimethyl fumarate and fingolimod in relapsing–remitting multiple sclerosis. J Neurol. 2020 Sep 24. Online ahead of print."
+        },
+        "ref62": {
+            "name": "Cutter G, Sormani MP, Betts M, <i>et al.</i> Comparative effectiveness of delayed-release dimethyl fumarate vs. other disease-modifying therapies in patients with multiple sclerosis: a network meta-analysis of real-world evidence. P1394 presented at ECTRIMS September 2019, Stockholm."
+        },
+        "ref63": {
+            "name": "Kobelt G, Langdon D, Jönsson L. The effect of self-assessed fatigue and subjective cognitive impairment on work capacity: The case of multiple sclerosis. Mult Scler. 2019 Apr;25(5):740-749."
+        },
+        "ref64": {
+            "name": "Rock M, Dell N, Tempest M <i>et al.</i> The positive impact of dimethyl fumarate and patient services to address relapsing-remitting multiple sclerosis patients’ unmet medical needs. Poster presented at ACTRIMS-ECTRIMS; 9–12 September, 2020; Washington DC, USA. P0922."
+        },
+        "ref65": {
+            "name": "Repovic P, Robertson D, Cohan SL <i>et al.</i> Effectiveness and Safety of Delayed-release Dimethyl Fumarate in Patients Aged ≥ 55 Years Enrolled in the RESPOND Study. Poster presented at ACTRIMS, 27–29 February 2020, West Palm Beach, Fl, USA. P034."
+        },
+        "ref66": {
+            "name": "TECFIDERA. Summary of Product Characteristics. Last updated February 2021."
+        },
+        "ref67": {
+            "name": "Mills EA,Ogrodnik MA, Plave A <i>et al.</i> Emerging Understanding of the Mechanism of Action for Dimethyl Fumarate in the Treatment of Multiple Sclerosis. Front Neurol. 2018;9:5."
+        },
+        "ref68": {
+            "name": "Pandey K, Giles K, Balashov K <i>et al.</i> Safety and Effectiveness of Dimethyl Fumarate Maintained Over 5 Years in Multiple Sclerosis Patients Treated in Routine Medical Practice. Poster presented at ACTRIMS-ECTRIMS; 9–12 September, 2020;Washington DC, USA. P0386."
+        },
+        "ref69": {
+            "name": "Amato MP, Portaccio E, Goretti B, <i>et al.</i> Association of neocortical volume changes with cognitive deterioration in relapsing-remitting multiple sclerosis. Arch Neurol 2007; 64: 1157–1161."
+        },
+        "ref70": {
+            "name": "Sanfilipo MP, Benedict RHB, Sharma J, <i>et al.</i> The relationship between whole brain volume and disability in multiple sclerosis: a comparison of normalized gray vs. white matter with misclassification correction. Neuroimage 2005; 26: 1068–1077."
+        },
+        "ref71": {
+            "name": "Mowry EM, Beheshtian A, Waubant E, <i>et al.</i> Quality of life in multiple sclerosis is associated with lesion burden and brain volume measures. Neurology 2009; 72: 1760–1765."
+        },
+        "ref72": {
+            "name": "Kobelt G, Langdon D, Jönsson L. The effect of self-assessed fatigue and subjective cognitive impairment on work capacity: The case of multiple sclerosis. Mult Scler. 2019 Apr;25(5):740-749."
+        },
+        "ref73": {
+            "name": "Kobelt G, Hou Q, Dong S <i>et al.</i> The Effect of Self-Assessed Fatigue and Cognitive Impairment on Health Care Consumption, Work Capacity, and Utility: A Study in 5475 Patients in Germany. Presented at EAN. 23-26 May, 2020, Paris, France."
+        },
+        "ref74": {
+            "name": "Niemczyk G, Begus-Nahrmann Y, Rolfes S <i>et al.</i> Patient coaching to optimize management of delayed-release dimethyl fumarate-associated gastrointestinal events and flushing: Five years of experience. Poster presented at ACTRIMS-ECTRIMS (MSVirtual) 11–13 September 2020. P1043."
+        },
+        "ref75": {
+            "name": "Mehta D, Miller C, Arnold DL <i>et al.</i> Effect of dimethyl fumarate on lymphocytes in RRMS. Neurology. 2019;92:e1724-e1738."
+        },
+        "ref76": {
+            "name": "Sangurdekar D, Hanna J, Thullen T <i>et al.</i> Lymphocyte Decline With Dimethyl Fumarate Treatment Does Not Appear to be Driven by Direct Cytotoxicity. Poster presented at EAN 29 June–2 July 2019, Oslo, Norway. POD028."
+        },
+        "ref77": {
+            "name": "Tecfidera (dimethyl fumarate): Updated recommendations in the light of cases of progressive multifocal leukoencephalopathy (PML) in the setting of mild lymphopenia. Available at: https://www.ema.europa.eu/en/documents/dhpc/tecfidera-dimethyl-fumarate-updated-recommendations-light-cases-progressive-multifocal_en.pdf. Accesses December 2020. Tecfidera (dimethyl fumarate): Updated recommendations in the light of cases of progressive multifocal leukoencephalopathy (PML) in the setting of mild lymphopenia. Available at: https://www.ema.europa.eu/en/documents/"
+        },
+        "ref78": {
+            "name": "Berger T, Brochet B, Brambilla L <i>et al.</i> Effectiveness of Delayed-Release Dimethyl Fumarate on PROs and Clinical Measures in Patients with RRMS in a Real-World Clinical Setting: PROTEC. Mult Scler J Exp Transl Clin. 2019 Oct-Dec;5(4):2055217319887191."
+        },
+        "ref79": {
+            "name": "Viglietta V, Miller D, Bar-Or A <i>et al.</i> Efficacy of Delayed Dimethyl Fumarate in Relapsing-Remitting Multiple Sclerosis: Integrated Analysis of the Phase 3 Trials. Ann Clin Transl Neurol. 2015;2(2):103-118."
+        },
+        "ref80": {
+            "name": "Gold R, Arnold DL, Bar-Or A <i>et al.</i> Safety and efficacy of delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: 9 years' follow-up of DEFINE, CONFIRM, and ENDORSE. Ther Adv Neurol Disord. 2020;13:1-17."
+        },
+        "ref81": {
+            "name": "Nakamura K, Mokliatchouk O, Arnold DL <i>et al.</i> Effects of Dimethyl Fumarate on Brain Volume Change in Relapsing-Remitting Multiple Sclerosis: A Pooled Analysis of the Phase 3 DEFINE and CONFIRM Studies. Poster presented at AAN, 4–10 May 2019, Philadelphia PA, USA. P3.2-064."
+        },
+        "ref82": {
+            "name": "Amato MP, Portaccio E, Goretti B, <i>et al.</i> Association of neocortical volume changes with cognitive deterioration in relapsing-remitting multiple sclerosis. Arch Neurol 2007; 64: 1157–1161."
+        },
+        "ref83": {
+            "name": "Sanfilipo MP, Benedict RHB, Sharma J, <i>et al.</i> The relationship between whole brain volume and disability in multiple sclerosis: a comparison of normalized gray vs. white matter with misclassification correction. Neuroimage 2005; 26: 1068–1077."
+        },
+        "ref84": {
+            "name": "Mowry EM, Beheshtian A, Waubant E, <i>et al.</i> Quality of life in multiple sclerosis is associated with lesion burden and brain volume measures. Neurology 2009; 72: 1760–1765."
+        },
+        "ref85": {
+            "name": "Gold R, Arnold DL, Bar-Or A, Fox RJ, Kappos L, Chen C, <i>et al.</i> Safety and efficacy of delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: 9 years’ follow-up of DEFINE, CONFIRM, and ENDORSE. Ther Adv Neurol Disord 2020, Vol. 13: 1–17."
+        },
+        "ref86": {
+            "name": "Braune S, Grimm S, van Hovel P, <i>et al.</i> Comparative effectiveness of delayed-release dimethyl fumarate versus interferon, glatiramer acetate, teriflunomide, or fingolimod: results from the German NeuroTransData registry. J Neurol. 2018; 265(12): 2980–2992."
+        },
+        "ref87": {
+            "name": "Lorscheider J, Benkert P, Lienert C <i>et al.</i> Comparative analysis of dimethyl fumarate and fingolimod in relapsing–remitting multiple sclerosis. J Neurol. 2020 Sep 24. Online ahead of print."
+        },
+        "ref88": {
+            "name": "Vollmer B, Ontaneda D, Harris H <i>et al.</i> Comparative discontinuation, effectiveness, and switching practices of dimethyl fumarate and fingolimod at 36-month follow-up. J Neurol Sci. 2019 Dec 15;407:116498."
+        },
+        "ref89": {
+            "name": "Hersh CM, Lei Y, Altincatal A <i>et al.</i> Real-world Effectiveness of Dimethyl Fumarate Versus Fingolimod Using Novel Outcomes in a Heterogeneous Patient Cohort. Poster presented at ACTRIMS-ECTRIMS MSVirtual, 11–13 September 2020. P0142."
+        },
+        "ref90": {
+            "name": "Cutter G, Sormani MP, Betts M, <i>et al.</i> Comparative effectiveness of delayed-release dimethyl fumarate vs. other disease-modifying therapies in patients with multiple sclerosis: a network meta-analysis of real-world evidence. P1394 presented at ECTRIMS September 2019, Stockholm."
+        },
+        "ref91": {
+            "name": "Tecfidera (dimethyl fumarate): Updated recommendations in the light of cases of progressive multifocal leukoencephalopathy (PML) in the setting of mild lymphopenia. Available at: https://www.ema.europa.eu/en/documents/dhpc/tecfidera-dimethyl-fumarate-updated-recommendations-light-cases-progressive-multifocal_en.pdf. Accesses December 2020. Tecfidera (dimethyl fumarate): Updated recommendations in the light of cases of progressive multifocal leukoencephalopathy (PML) in the setting of mild lymphopenia. Available at: https://www.ema.europa.eu/en/documents/"
+        },
+        "ref92": {
+            "name": "Tecfidera (dimethyl fumarate): Updated recommendations in the light of cases of progressive multifocal leukoencephalopathy (PML) in the setting of mild lymphopenia. Available at: https://www.ema.europa.eu/en/documents/dhpc/tecfidera-dimethyl-fumarate-updated-recommendations-light-cases-progressive-multifocal_en.pdf. Accesses December 2020. Tecfidera (dimethyl fumarate): Updated recommendations in the light of cases of progressive multifocal leukoencephalopathy (PML) in the setting of mild lymphopenia. Available at: https://www.ema.europa.eu/en/documents/"
+        },
+        "ref93": {
+            "name": "Gold R, Arnold DL, Bar-Or A, Fox RJ, Kappos L, Chen C, <i>et al.</i> Safety and efficacy of delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: 9 years’ follow-up of DEFINE, CONFIRM, and ENDORSE. Ther Adv Neurol Disord 2020, Vol. 13: 1–17."
+        },
+        "ref94": {
+            "name": "Mehta D, Miller C, Arnold DL <i>et al.</i> Effect of dimethyl fumarate on lymphocytes in RRMS. Neurology. 2019;92:e1724-e1738."
+        },
+        "ref95": {
+            "name": "Bar-Or A, Giuliani F, Mao-Draayer Y <i>et al.</i> Dimethyl Fumarate Exerts Selective Effects on Key B Cell Subsets and IgG Levels Which May Contribute to Its Therapeutic Benefit in MS While Maintaining Protective Humoral Immunity. Poster presented at AAN, 4–10 May, 2019, Philadelphia, PA, USA. P2.2-069."
+        },
+        "ref96": {
+            "name": "Longbrake E, Matthews PM, Mao-Draayer Y <i>et al.</i> Change in Absolute Lymphocyte Count Is Not a Biomarker of Clinical Response and Is Not Associated With Change in Serum Neurofilament Light for Patients Treated With Delayed-release Dimethyl Fumarate. Poster presented at ECTRIMS, 11–13 September 2019, Stockholm, Sweden. P1037."
+        },
+        "ref97": {
+            "name": "Robertson D, Zielinski T, Cascione M <i>et al.</i> Delayed-release Dimethyl Fumarate Treatment Shifts the Immune Repertoire in Patients With Relapsing-Remitting Multiple Sclerosis: Results of PROCLAIM, an Open-label Phase 3 Study. Poster presented at AAN, 4–10 May, 2019, Philadelphia, PA, USA. P4.2-053."
+        },
+        "ref98": {
+            "name": "Mills EA,Ogrodnik MA, Plave A <i>et al.</i> Emerging Understanding of the Mechanism of Action for Dimethyl Fumarate in the Treatment of Multiple Sclerosis. Front Neurol. 2018;9:5."
+        },
+        "ref99": {
+            "name": "Gold R, Kappos L, Arnold DL <i>et al.</i> Placebo-Controlled Phase 3 Study of Oral BG-12 for Relapsing Multiple Sclerosis. N Engl J Med. 2012;367(12):1098-1107."
+        },
+        "ref100": {
+            "name": "Fox RJ, Miller DH, Phillips JT <i>et al.</i> Placebo-controlled Phase 3 Study of Oral BG-12 or Glatiramer in Multiple Sclerosis. N Engl J Med. 2012;367(12):1087-1097."
+        },
+        "ref101": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Safety and Efficacy in Patients Treated With Dimethyl Fumarate and Followed For 13 Years: Final Results of ENDORSE. Poster presented at ACTRIMS–ECTRIMS (MSVirtual), 11–13 September 2020. Poster FC02.05."
+        },
+        "ref102": {
+            "name": "TECFIDERA. Summary of Product Characteristics. Last updated November 2020."
+        },
+        "ref103": {
+            "name": "von Hehn C, Howard J, Liu S <i>et al.</i> Immune Response to Vaccines Is Maintained in Patients Treated With Dimethyl Fumarate. Neurol Neuroimmunol Neuroinflamm. 2018 Jan; 5(1): e409."
+        },
+        "ref104": {
+            "name": "Sangurdekar D, Hanna J, Thullen T <i>et al.</i> Lymphocyte Decline With Dimethyl Fumarate Treatment Does Not Appear to be Driven by Direct Cytotoxicity. Poster presented at EAN 29 June–2 July 2019, Oslo, Norway. POD028."
+        },
+        "ref105": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Overall safety and efficacy through 10 years of treatment with dimethyl fumarate in patients with relapsing-remitting multiple sclerosis. Poster presented at ECTRIMS 2019, Stockholm, Sweden. P1397."
+        },
+        "ref106": {
+            "name": "Pardo G, Jones DE. The sequence of disease-modifying therapies in relapsing multiple sclerosis: safety and immunologic considerations. J Neurol. 2017;264(12):2351-2374."
+        },
+        "ref107": {
+            "name": "Gold R, <i>et al.</i> Long term effects of delayed-release dimethyl fumarate in multiple sclerosis: interim analysis of ENDORSE, a randomized extension study. Mult Scler. 2017;23(2):253-265."
+        },
+        "ref108": {
+            "name": "Buron MD, Chalmer TA, Selleberg F <i>et al.</i> Comparative effectiveness of teriflunomide and dimethyl fumarate: A nationwide cohort study. Neurology 2019;92(16:e188-e1820)."
+        },
+        "ref109": {
+            "name": "Derfuss T, Mehling M, Papadopoulou A, Bar-Or A, Cohen JA, Kappos L. Advances in oral immunomodulating therapies in relapsing multiple sclerosis. Lancet Neurology 2020 Apr;19(4):336-347."
+        },
+        "ref110": {
+            "name": "Gold R, Arnold DL, Bar-Or A, Fox RJ, Kappos L, Chen C <i>et al.</i> Safety and efficacy of delayed-release dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: 9 years' follow-up of DEFINE, CONFIRM, and ENDORSE. Ther Adv Neurol Disord 2020, vol.13:1-17."
+        },
+        "ref111": {
+            "name": "Gold R, Giovannoni G, Phillips JT <i>et al.</i> Safety and Efficacy in Patients Treated with Dimethyl Fumarate and Followed for 13 Years: Final Results of ENDORSE. Poster FC02.05 presented at Joint ACTRIMS-ECTRIMS 2020."
+        },
+        "ref112": {
+            "name": "Data on file, Biogen."
+        },
+        "ref113": {
+            "name": "Gold R, <i>et al.</i>  Long-term effects of delayed-release dimethyl fumarate in multiple sclerosis: interim analysis of ENDORSE, a randomized extension study. Mult Scler. 2017;23(2):253-265."
+        },
+        "ref114": {
+            "name": "Tecfidera Exposure Data 4 March 2021. Biogen Data on File."
+        },
+        "ref115": {
+            "name": "Buron MD, Chalmer TA, Selleberg F <i>et al.</i> Comparative effectiveness of teriflunomide and dimethyl fumarate. Neurology. 2019;92(16):e1811-e1820."
+        },
+        "ref116": {
+            "name": "Begus-Nahrmann Y, Niemczyk G, Schmid B <i>et al.</i> The potential of individualized patient coaching to optimize treatment with delayed-release dimethyl fumarate: A retrospective analysis of patients with multiple sclerosis treated in a real-world setting. Poster P1214. Presented at: ECTRIMS, 14–17 September, 2016, London, UK."
+        },
+        "ref117": {
+            "name": "Buron MD, Chalmer TA, Selleberg F <i>et al.</i>  Comparative Effectiveness of Teriflunomide and Dimethyl Fumarate: A Nationwide Cohort Study. Neurology. 2019;92(16):e1811-e1820."
+        },
+        "ref118": {
+            "name": "Berger T, Brochet B, Brambilla L <i>et al.</i> Effectiveness of Delayed-Release Dimethyl Fumarate on PROs and Clinical Measures in Patients with RRMS in a Real-World Clinical Setting: PROTEC. Mult Scler J Exp Transl Clin. 2019 Oct-Dec;5(4):2055217319887191."
+        },
+        "ref119": {
+            "name": "Tecfidera (dimethyl fumarate): Updated recommendations in the light of cases of progressive multifocal leukoencephalopathy (PML) in the setting of mild lymphopenia. Available at: https://www.ema.europa.eu/en/documents/dhpc/tecfidera-dimethyl-fumarate-updated-recommendations-light-cases-progressive-multifocal_en.pdf. Accesses December 2020."
+        }
+    }
+}

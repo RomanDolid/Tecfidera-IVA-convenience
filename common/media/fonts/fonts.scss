@@ -1,0 +1,174 @@
+$assetPath : "../../common/media/fonts";
+
+/* DinPro */
+@font-face {
+    font-family: DinPro;
+    src: url('#{$assetPath}/DINPro.woff') format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinPro;
+    src: url("#{$assetPath}/DINPro-Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinPro;
+    src: url("#{$assetPath}/DINPro-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinPro;
+    src: url("#{$assetPath}/DINPro-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProMedium;
+    src: url("#{$assetPath}/DINPro-Medium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinProMedium;
+    src: url("#{$assetPath}/DINPro-MediumItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedRegular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedBoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinProCondensedMedium;
+    src: url("#{$assetPath}/DINPro-CondensedMediumItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensedMedium;
+    src: url("#{$assetPath}/DINPro-CondensedMedium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+} 
+
+
+@font-face {
+	font-family: AvenirNextCyr;
+	src: url("#{$assetPath}/AvenirNextCyr-Rg.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: AvenirNextCyr;
+	src: url("#{$assetPath}/AvenirNextCyr-RgIt.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: AvenirNextCyr;
+	src: url("#{$assetPath}/AvenirNextCyr-Bd.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: AvenirNextCyr;
+	src: url("#{$assetPath}/AvenirNextCyr-BdIt.woff") format("woff");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: AvenirNextCyrMd;
+	src: url("#{$assetPath}/AvenirNextCyr-Md.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: AvenirNextCyrMd;
+	src: url("#{$assetPath}/AvenirNextCyr-MdIt.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: AvenirNextCyrDm;
+	src: url("#{$assetPath}/AvenirNextCyr-Dm.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: AvenirNextCyrDm;
+	src: url("#{$assetPath}/AvenirNextCyr-DmIt.woff") format("woff");
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: AvenirBlack;
+	src: url("#{$assetPath}/Avenir-Black.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: AvenirNextCnMd;
+	src: url("#{$assetPath}/AvenirNextCondensed-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+
+:export {
+    DinProLight: DinProLight;
+    DinPro: DinPro;
+    DinProMedium: DinProMedium;
+    DinProBlack: DinProBlack;
+    DinProCondensedLight: DinProCondensedLight;
+    DinProCondensed: DinProCondensed;
+    DinProCondensedMedium: DinProCondensedMedium;
+    DinProCondensedBlack: DinProCondensedBlack;
+    AvenirNextCyr: AvenirNextCyr;
+    AvenirNextCyrMd: AvenirNextCyrMd;
+    AvenirNextCyrDm: AvenirNextCyrDm;
+    AvenirBlack: AvenirBlack;
+    AvenirNextCnMd: AvenirNextCnMd;
+}

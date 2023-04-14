@@ -1,0 +1,97 @@
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'DinPro';
+  src: url('../media/fonts/DINPro.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 400;
+  font-style: italic;
+  font-family: 'DinPro';
+  src: url('../media/fonts/DINPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'DinPro';
+  src: url('../media/fonts/DINPro-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: italic;
+  font-family: 'DinPro';
+  src: url('../media/fonts/DINPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 500;
+  font-style: normal;
+  font-family: 'DinProMedium';
+  src: url('../media/fonts/DINPro-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 500;
+  font-style: italic;
+  font-family: 'DinProMedium';
+  src: url('../media/fonts/DINPro-MediumItalic.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'DinProCondensed';
+  src: url('../media/fonts/DINPro-CondensedRegular.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 400;
+  font-style: italic;
+  font-family: 'DinProCondensed';
+  src: url('../media/fonts/DINPro-CondensedItalic.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: italic;
+  font-family: 'DinProCondensed';
+  src: url('../media/fonts/DINPro-CondensedBoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'DinProCondensed';
+  src: url('../media/fonts/DINPro-CondensedBold.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 500;
+  font-style: italic;
+  font-family: 'DinProCondensedMedium';
+  src: url('../media/fonts/DINPro-CondensedMediumItalic.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 500;
+  font-style: normal;
+  font-family: 'DinProCondensedMedium';
+  src: url('../media/fonts/DINPro-CondensedMedium.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'Arial';
+  src: url('../media/fonts/arial-regular.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'Arial';
+  src: url('../media/fonts/arial-bold.woff') format('woff');
+}

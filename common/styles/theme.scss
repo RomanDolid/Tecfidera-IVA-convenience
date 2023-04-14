@@ -1,0 +1,36 @@
+@import "../media/fonts/fonts.scss";
+
+/* Colors */
+$default-color-1: rgb(255, 255, 255) !default;
+$default-color-2: rgb(0, 0, 0) !default;
+$default-color-3: rgb(103, 186, 202) !default;
+
+/* Main template */
+html {
+    background-color: $default-color-2;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 1024px;
+  height: 768px;
+}
+
+/* wiz-bg-sitemap */
+.wiz-bg-sitemap {
+  #sitemapPopup {
+    transform: matrix(1, 0, 0, 1, 15, 17);  
+    width: 950px;
+    height: 735px;
+  }
+}
+
+/* wiz-references-button */
+.wiz-bg-references  {
+  #referencesPopup {
+    transform: matrix(1, 0, 0, 1, 58, -283);
+    width: 950px;
+    height: 735px;
+  }
+}   

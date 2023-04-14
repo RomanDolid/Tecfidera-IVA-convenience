@@ -1,0 +1,390 @@
+{
+    "slides": {
+        "tecfideraFrontPage": {
+            "name": "Front Page",
+            "template": "slides/tecfideraFrontPage/index.vue",
+            "title": "Front Page"
+        },
+        "tecfideraTrackRecord": {
+            "name": "Track Record",
+            "template": "slides/tecfideraTrackRecord/index.vue",
+            "title": "Track Record"
+        },
+        "tecfideraThinkAhead": {
+            "name": "Think Ahead",
+            "template": "slides/tecfideraThinkAhead/index.vue",
+            "title": "Think Ahead"
+        },
+        "tecfideraEarlyTreatment": {
+            "name": "EarlyTreatment",
+            "template": "slides/tecfideraEarlyTreatment/index.vue",
+            "title": "EarlyTreatment"
+        },
+        "tecfideraEfficacy": {
+            "name": "Efficacy",
+            "template": "slides/tecfideraEfficacy/index.vue",
+            "title": "Efficacy"
+        },
+        "tecfideraNewlyARRPopup": {
+            "name": "Tecfidera Newly ARR Popup",
+            "template": "slides/tecfideraNewlyARRPopup/index.vue",
+            "title": "Tecfidera Newly ARR Popup"
+        },
+        "tecfideraNewlyARRPopup2": {
+            "name": "Tecfidera Newly ARR Popup2",
+            "template": "slides/tecfideraNewlyARRPopup2/index.vue",
+            "title": "Tecfidera Newly ARR Popup2"
+        },
+        "tecfideraNewlyMRI": {
+            "name": "Tecfidera Newly MRI",
+            "template": "slides/tecfideraNewlyMRI/index.vue",
+            "title": "Tecfidera Newly MRI"
+        },
+        "tecfideraNewlyMRIPopup": {
+            "name": "Tecfidera Newly MRI Popup",
+            "template": "slides/tecfideraNewlyMRIPopup/index.vue",
+            "title": "Tecfidera Newly MRI Popup"
+        },
+        "tecfideraTecProvenARRPopup3": {
+            "name": "Tecfidera Tec Proven ARR Popup3",
+            "template": "slides/tecfideraTecProvenARRPopup3/index.vue",
+            "title": "Tecfidera Tec Proven ARR Popup3"
+        },
+        "tecfideraProvenMRI": {
+            "name": "Tecfidera Proven MRI",
+            "template": "slides/tecfideraProvenMRI/index.vue",
+            "title": "Tecfidera Proven MRI"
+        },
+        "tecfideraProvenMRIPopup": {
+            "name": "Tecfidera Proven MRI Popup",
+            "template": "slides/tecfideraProvenMRIPopup/index.vue",
+            "title": "Tecfidera Proven MRI Popup"
+        },
+        "tecfideraProvenMRIPopup2": {
+            "name": "Tecfidera Proven MRI Popup2",
+            "template": "slides/tecfideraProvenMRIPopup2/index.vue",
+            "title": "Tecfidera Proven MRI Popup2"
+        },
+        "tecfideraTecRWEOld": {
+            "name": "Tecfidera Tec RWE",
+            "template": "slides/tecfideraTecRWEOld/index.vue",
+            "title": "Tecfidera Tec RWE"
+        },
+        "tecfideraFlexibility": {
+            "name": "Flexibility",
+            "template": "slides/tecfideraFlexibility/index.vue",
+            "title": "Flexibility"
+        },
+        "tecfideraTime": {
+            "name": "Tecfidera Time",
+            "template": "slides/tecfideraTime/index.vue",
+            "title": "Tecfidera Time"
+        },
+        "tecfideraFamily": {
+            "name": "Tecfidera Family",
+            "template": "slides/tecfideraFamily/index.vue",
+            "title": "Tecfidera Family"
+        },
+        "tecfideraConvenience": {
+            "name": "Convenience",
+            "template": "slides/tecfideraConvenience/index.vue",
+            "title": "Convenience"
+        },
+        "tecfideraDosing": {
+            "name": "Tecfidera Dosing",
+            "template": "slides/tecfideraDosing/index.vue",
+            "title": "Tecfidera Dosing"
+        },
+        "tecfideraMonitoring": {
+            "name": "Tecfidera Monitoring",
+            "template": "slides/tecfideraMonitoring/index.vue",
+            "title": "Tecfidera Monitoring"
+        },
+        "tecfideraLymphopenia": {
+            "name": "Tecfidera Lymphopenia",
+            "template": "slides/tecfideraLymphopenia/index.vue",
+            "title": "Tecfidera Lymphopenia"
+        },
+        "tecfideraLymphopenia2": {
+            "name": "Tecfidera Lymphopenia2",
+            "template": "slides/tecfideraLymphopenia2/index.vue",
+            "title": "Tecfidera Lymphopenia2"
+        },
+        "tecfideraInfectionsMalignancies": {
+            "name": "Tecfidera Infections Malignancies",
+            "template": "slides/tecfideraInfectionsMalignancies/index.vue",
+            "title": "Tecfidera Infections Malignancies"
+        },
+        "tecfideraVaccinations": {
+            "name": "Tecfidera Vaccinations",
+            "template": "slides/tecfideraVaccinations/index.vue",
+            "title": "Tecfidera Vaccinations"
+        },
+        "tecfideraAEProfile": {
+            "name": "Tecfidera AE Profile",
+            "template": "slides/tecfideraAEProfile/index.vue",
+            "title": "Tecfidera AE Profile"
+        },
+        "tecfideraGIEvents": {
+            "name": "Tecfidera GI Events",
+            "template": "slides/tecfideraGIEvents/index.vue",
+            "title": "Tecfidera GI Events"
+        },
+        "tecfideraGIEvents2": {
+            "name": "Tecfidera GI Events2",
+            "template": "slides/tecfideraGIEvents2/index.vue",
+            "title": "Tecfidera GI Events2"
+        },
+        "tecfideraFlushing": {
+            "name": "Tecfidera Flushing",
+            "template": "slides/tecfideraFlushing/index.vue",
+            "title": "Tecfidera Flushing"
+        },
+        "tecfideraSummary": {
+            "name": "Summary",
+            "template": "slides/tecfideraSummary/index.vue",
+            "title": "Summary"
+        },
+        "tecfideraAEProfile2": {
+            "name": "Tecfidera AE Profile2",
+            "title": "Tecfidera AE Profile2",
+            "template": "slides/tecfideraAEProfile2/index.vue"
+        },
+        "tecfideraProvenDisabilityPopup1": {
+            "name": "Tecfidera Proven Disability Popup1",
+            "title": "Tecfidera Proven Disability Popup1",
+            "template": "slides/tecfideraProvenDisabilityPopup1/index.vue"
+        },
+        "tecfideraProvenDisabilityPopup2": {
+            "name": "Tecfidera Proven Disability Popup2",
+            "title": "Tecfidera Proven Disability Popup2",
+            "template": "slides/tecfideraProvenDisabilityPopup2/index.vue"
+        },
+        "tecfideraProvenDisabilityPopup4": {
+            "name": "Tecfidera Proven Disability Popup4",
+            "title": "Tecfidera Proven Disability Popup4",
+            "template": "slides/tecfideraProvenDisabilityPopup4/index.vue"
+        },
+        "tecfideraStudyDesign": {
+            "name": "Tecfidera Study Design",
+            "title": "Tecfidera Study Design",
+            "template": "slides/tecfideraStudyDesign/index.vue"
+        },
+        "tecfideraProvenDisability": {
+            "name": "Tecfidera Proven Disability",
+            "title": "Tecfidera Proven Disability",
+            "template": "slides/tecfideraProvenDisability/index.vue"
+        },
+        "tecfideraProvenDisability2": {
+            "name": "Tecfidera Proven Disability 2",
+            "title": "Tecfidera Proven Disability 2",
+            "template": "slides/tecfideraProvenDisability2/index.vue"
+        },
+        "tecfideraProvenDisability3": {
+            "name": "Tecfidera Proven Disability 3",
+            "title": "Tecfidera Proven Disability 3",
+            "template": "slides/tecfideraProvenDisability3/index.vue"
+        },
+        "tecfideraNewlyDisabilityPopup": {
+            "name": "Tecfidera Newly Disability Popup",
+            "title": "Tecfidera Newly Disability Popup",
+            "template": "slides/tecfideraNewlyDisabilityPopup/index.vue"
+        },
+        "tecfideraProvenBrainVolume": {
+            "name": "Tecfidera Proven Brain Volume",
+            "title": "Tecfidera Proven Brain Volume",
+            "template": "slides/tecfideraProvenBrainVolume/index.vue"
+        },
+        "tecfideraProvenBrainVolumePopup": {
+            "name": "Tecfidera Proven Brain Volume Popup",
+            "title": "Tecfidera Proven Brain Volume Popup",
+            "template": "slides/tecfideraProvenBrainVolumePopup/index.vue"
+        },
+        "tecfideraProvenBrainVolumePopup2": {
+            "name": "Tecfidera Proven Brain Volume Popup 2",
+            "title": "Tecfidera Proven Brain Volume Popup 2",
+            "template": "slides/tecfideraProvenBrainVolumePopup2/index.vue"
+        },
+        "tecfideraSwitchARR": {
+            "name": "Tecfidera Switch ARR",
+            "title": "Tecfidera Switch ARR",
+            "template": "slides/tecfideraSwitchARR/index.vue"
+        },
+        "tecfideraSwitchARRPopup": {
+            "name": "Tecfidera Switch ARR Popup",
+            "title": "Tecfidera Switch ARR Popup",
+            "template": "slides/tecfideraSwitchARRPopup/index.vue"
+        },
+        "tecfideraTecRWE6": {
+            "name": "Tecfidera Tec RWE 6",
+            "title": "Tecfidera Tec RWE 6",
+            "template": "slides/tecfideraTecRWE6/index.vue"
+        },
+        "tecfideraTecRWE7": {
+            "name": "Tecfidera Tec RWE 7",
+            "title": "Tecfidera Tec RWE 7",
+            "template": "slides/tecfideraTecRWE7/index.vue"
+        },
+        "tecfideraTecRWE8": {
+            "name": "Tecfidera Tec RWE 8",
+            "title": "Tecfidera Tec RWE 8",
+            "template": "slides/tecfideraTecRWE8/index.vue"
+        },
+        "tecfideraImmunity": {
+            "name": "Tecfidera Immunity",
+            "title": "Tecfidera Immunity",
+            "template": "slides/tecfideraImmunity/index.vue"
+        },
+        "tecfideraTecRWE": {
+            "name": "Tecfidera Tec RWE",
+            "template": "slides/tecfideraTecRWE/index.vue",
+            "title": "Tecfidera Tec RWE"
+        },
+        "tecfideraTecRWE3": {
+            "name": "Tecfidera Tec RWE3",
+            "template": "slides/tecfideraTecRWE3/index.vue",
+            "title": "Tecfidera Tec RWE3"
+        },
+        "tecfideraTecRWE4": {
+            "name": "Tecfidera Tec RWE4",
+            "template": "slides/tecfideraTecRWE4/index.vue",
+            "title": "Tecfidera Tec RWE4"
+        },
+        "tecfideraTecRWE5": {
+            "name": "Tecfidera Tec RWE5",
+            "template": "slides/tecfideraTecRWE5/index.vue",
+            "title": "Tecfidera Tec RWE5"
+        },
+        "tecfideraNewlyARR": {
+            "name": "Tecfidera Newly ARR",
+            "template": "slides/tecfideraNewlyARR/index.vue",
+            "title": "Tecfidera Newly ARR"
+        },
+        "tecfideraNewlyARRPopup3": {
+            "name": "Tecfidera Newly ARR Popup 3",
+            "title": "Tecfidera Newly ARR Popup 3",
+            "template": "slides/tecfideraNewlyARRPopup3/index.vue"
+        },
+        "tecfideraNewlyDisability": {
+            "name": "Tecfidera Newly Disability",
+            "template": "slides/tecfideraNewlyDisability/index.vue",
+            "title": "Tecfidera Newly Disability"
+        },
+        "tecfideraTecProvenARR": {
+            "name": "Tecfidera Tec Proven ARR",
+            "template": "slides/tecfideraTecProvenARR/index.vue",
+            "title": "Tecfidera Tec Proven ARR"
+        },
+        "tecfideraTecProvenARR2": {
+            "name": "Tecfidera Tec Proven ARR 2",
+            "template": "slides/tecfideraTecProvenARR2/index.vue",
+            "title": "Tecfidera Tec Proven ARR 2"
+        },
+        "tecfideraTecProvenARRPopup": {
+            "name": "Tecfidera Tec Proven ARR Popup",
+            "template": "slides/tecfideraTecProvenARRPopup/index.vue",
+            "title": "Tecfidera Tec Proven ARR Popup"
+        },
+        "tecfideraTecProvenARRPopup4": {
+            "name": "Tecfidera Tec Proven ARR Popup 4",
+            "title": "Tecfidera Tec Proven ARR Popup 4",
+            "template": "slides/tecfideraTecProvenARRPopup4/index.vue"
+        },
+        "tecfideraTecProvenARRPopup5": {
+            "name": "Tecfidera Tec Proven ARR Popup 5",
+            "title": "Tecfidera Tec Proven ARR Popup 5",
+            "template": "slides/tecfideraTecProvenARRPopup5/index.vue"
+        },
+        "tecfideraTecPRO4": {
+            "name": "Tecfidera Tec PRO 4",
+            "title": "Tecfidera Tec PRO 4",
+            "template": "slides/tecfideraTecPRO4/index.vue"
+        },
+        "tecfideraTecPRO5": {
+            "name": "Tecfidera Tec PRO 5",
+            "title": "Tecfidera Tec PRO 5",
+            "template": "slides/tecfideraTecPRO5/index.vue"
+        },
+        "tecfideraTecPROPopup": {
+            "name": "Tecfidera Tec PRO Popup",
+            "title": "Tecfidera Tec PRO Popup",
+            "template": "slides/tecfideraTecPROPopup/index.vue"
+        },
+        "tecfideraTecPROPopup2": {
+            "name": "Tecfidera Tec PRO Popup 2",
+            "title": "Tecfidera Tec PRO Popup 2",
+            "template": "slides/tecfideraTecPROPopup2/index.vue"
+        },
+        "tecfideraTecPRO3": {
+            "name": "Tecfidera Tec PRO 3",
+            "title": "Tecfidera Tec PRO 3",
+            "template": "slides/tecfideraTecPRO3/index.vue"
+        },
+        "tecfideraTecPRO6": {
+            "name": "Tecfidera Tec PRO 6",
+            "title": "Tecfidera Tec PRO 6",
+            "template": "slides/tecfideraTecPRO6/index.vue"
+        },
+        "tecfideraTecPRO7": {
+            "name": "Tecfidera Tec PRO 7",
+            "title": "Tecfidera Tec PRO 7",
+            "template": "slides/tecfideraTecPRO7/index.vue"
+        },
+        "tecfideraMonitoring2": {
+            "name": "Tecfidera Monitoring 2",
+            "title": "Tecfidera Monitoring 2",
+            "template": "slides/tecfideraMonitoring2/index.vue"
+        },
+        "tecfideraTecRWE2": {
+            "name": "Tecfidera Tec RWE2",
+            "template": "slides/tecfideraTecRWE2/index.vue",
+            "title": "Tecfidera Tec RWE2"
+        },
+        "tecfideraProvenDisabilityPopup3": {
+            "name": "Tecfidera Proven Disability Popup 3",
+            "title": "Tecfidera Proven Disability Popup 3",
+            "template": "slides/tecfideraProvenDisabilityPopup3/index.vue"
+        }
+    },
+    "chapters": {
+        "core": {
+            "name": "Core",
+            "content": [
+                "tecfideraFrontPage"
+            ]
+        },
+        "convenience": {
+            "name": "Convenience",
+            "content": [
+                "tecfideraConvenience"
+            ]
+        },
+        "studyDesign": {
+            "name": "Study Designs",
+            "content": [
+                "tecfideraStudyDesign"
+            ]
+        },
+        "slidesPopup": {
+            "name": "Slides Popup",
+            "content": [                
+                "tecfideraDosing",
+                "tecfideraMonitoring",
+                "tecfideraMonitoring2",
+                "tecfideraImmunity",
+                "tecfideraVaccinations",
+                "tecfideraAEProfile",
+                "tecfideraAEProfile2",
+                "tecfideraGIEvents",
+                "tecfideraGIEvents2",
+                "tecfideraInfectionsMalignancies",
+                "tecfideraFlushing"
+            ]
+        }
+    },
+    "storyboard": [
+        "core",
+        "convenience"
+    ],
+    "start": {}
+}
